@@ -3,4 +3,4 @@
 
 realissoman.ipynb  -> 크롤링 , 머신러닝 파이썬 코드 
 
-Flask, Pandas, Keras, Java, Python
+Java, Python, JavaSpring, JSP, Flask, Pandas, Keras, WebDriver ... 
