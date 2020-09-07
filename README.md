@@ -4,3 +4,5 @@
 realissoman.ipynb  -> 크롤링 , 머신러닝 파이썬 코드 
 
 Java, Python, JavaSpring, JSP, Flask, Pandas, Keras, WebDriver ... 
+
+담당업무 - 기후 관련 데이터 웹 크롤링 / 모델 학습 / 모델 개선 / 데이터 분석
